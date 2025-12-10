@@ -1,0 +1,17 @@
+# Classes
+TF_LUNA_LIDAR	KEYWORD1
+
+# Methods
+begin	KEYWORD2
+readData	KEYWORD2
+readRawData	KEYWORD2
+readDataI2C	KEYWORD2
+getDistance	KEYWORD2
+getStrength	KEYWORD2
+getTemperature	KEYWORD2
+getRawBuffer	KEYWORD2
+scanI2C	KEYWORD2
+configureUART	KEYWORD2
+enableFastMode	KEYWORD2
+getFPS	KEYWORD2
+runDiagnostics	KEYWORD2
